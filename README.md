@@ -38,9 +38,8 @@ Windows Jupiter M1-7850: 2011-02-05 (Use a Windows 7 Retail serial)<br>
 Windows Threshold PTP-9780: 2015-07-15 (Use a Windows 8.1 Retail serial)</p>
 <h2 class="code-line" data-line-start=33 data-line-end=34><a id="Installing_a_Virtual_Machine_33"></a>Installing a Virtual Machine</h2>
 <p class="has-line-data" data-line-start="34" data-line-end="35">We strongly recommend using emulators/VMs for Malware and beta isos listed in this repository.</p>
-<h4 class="code-line" data-line-start=35 data-line-end=36><a id="Installing_Windows_35"></a>Installing Windows</h4>
 <details>
-    <summary>Spoiler warning</summary>
+    <summary>Click uwu</summary>
 <h4 class="code-line" data-line-start=38 data-line-end=39><a id="Using_Virtualbox_on_Windows_38"></a>Using Virtualbox on Windows</h4>
 <pre><code class="has-line-data" data-line-start="40" data-line-end="94" class="language-sh">Open the VirtualBox website. Go to https://www.virtualbox.org/ <span class="hljs-keyword">in</span> your computer<span class="hljs-string">'s Internet browser. This is the website from which you'</span>ll download the VirtualBox setup file.
 
