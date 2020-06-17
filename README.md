@@ -9,7 +9,7 @@
 <h2 class="code-line" data-line-start=5 data-line-end=6><a id="Diclaimer_5"></a>Diclaimer</h2>
 <blockquote>
 <p class="has-line-data" data-line-start="6" data-line-end="10">Malware in this repository is for private use <strong>ONLY</strong>!<br>
-We dont own the Software<br>
+We dont own all of the Software<br>
 We are not responsible for any damage<br>
 to your system using the software in this repository.</p>
 </blockquote>
