@@ -25,14 +25,14 @@ Look up additional info in the parentheses.<br>
 Windows Chicago M4-58s: No timebomb<br>
 Windows Nashville Beta-999: No timebomb<br>
 Windows Memphis Alpha-1351: 1997-04-01<br>
-Windows Millenium DR-2332.2: 1999-12-15 (RBDC9-VTRC8-D7972-J97JY-PRVMG)<br>
-Windows Millenium B1-2394: 2000-03-15 (RBDC9-VTRC8-D7972-J97JY-PRVMG)<br>
-Windows Neptune M2-5511: 2001-02-26 (W7XTC-2YWFB-K6BPT-GMHMV-B6FDY)<br>
+Windows Millenium DR-2332.2: 1999-12-15 <br>
+Windows Millenium B1-2394: 2000-03-15 <br>
+Windows Neptune M2-5511: 2001-02-26 <br>
 Windows Janus PB-1515.1: No timebomb (Incredibly buggy ACPI! Turn it off in the BIOS)<br>
 Windows Whistler PB-2202: 2001-04-22 (Is bootable, but causes BSOD if installed directly from CD)<br>
-Windows Whistler B2-2419: 2001-07-13 (RBDC9-VTRC8-D7972-J97JY-PRVMG)<br>
-Windows Longhorn M7-4074: 2004-10-23 (TCP8W-T8PQJ-WWRRH-QH76C-99FBW)<br>
-Windows Longhorn B2-5308.50: 2007-03-07 (WGDJW-B8DYC-WVKX4-6MKF4-B8PK8)<br>
+Windows Whistler B2-2419: 2001-07-13 <br>
+Windows Longhorn M7-4074: 2004-10-23 <br>
+Windows Longhorn B2-5308.50: 2007-03-07 <br>
 Windows Vienna PM1-6469: 2008-04-07<br>
 Windows Jupiter M1-7850: 2011-02-05 (Use a Windows 7 Retail serial)<br>
 Windows Threshold PTP-9780: 2015-07-15 (Use a Windows 8.1 Retail serial)</p>
